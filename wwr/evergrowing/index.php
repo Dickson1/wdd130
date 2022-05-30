@@ -1,0 +1,567 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Ever Growing Company Limited</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
+<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+<link rel="stylesheet" href="css/jquery-ui.css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
+<!--fonts-->
+<link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+<!--//fonts-->
+<style type="text/css">
+.header
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.header img {
+  float: left;
+  width: 200px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background: #0f2453;
+
+}
+
+.header h4 {
+  position: relative;
+  top: 6px;
+  left: 8px;
+}
+
+ .img{
+ 	margin-bottom: 0px;
+ 	margin-top: 0px;
+ 	wi
+ }
+</style>
+</head>
+<body>
+<!-- header -->
+<div class="banner-top">
+			<div class="social-bnr-agileits">
+				<ul class="social-icons3">
+								<li><a href="https://www.facebook.com/ever.growing.167" class="fa fa-facebook icon-border facebook"> </a></li>
+								
+							</ul>
+			</div>
+			<div class="contact-bnr-w3-agile" >
+				<ul>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:evergrowing100@gmail.com">evergrowing100@gmail.com</a></li>
+					<li><i class="fa fa-whatsapp" aria-hidden="true"></i>+255 756358888</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+255 756687632</li>
+					
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	<div class="w3_navigation">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<div class="navbar-header navbar-left">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="header" style="padding: 0px;">
+					
+                     <img src="images/logo.png" alt="logo"/>
+                     
+                     </div>
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+					<nav class="menu menu--iris">
+						<ul class="nav navbar-nav menu__list">
+							<li class="menu__item menu__item--current"><a href="index.php" class="menu__link">Home</a></li>
+							<li class="menu__item"><a href="admin/about.php">About us</a></li>
+							<!--<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>-->
+							<li class="menu__item"><a href="admin/product.php">Products</a></li>
+							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
+						</ul>
+					</nav>
+				</div>
+			</nav>
+
+		</div>
+	</div>
+<!-- //header -->
+		<!-- banner //images -->
+	<div id="home" class="w3ls-banner">
+		<!-- banner-text -->
+		<div class="slider">
+			<div class="callbacks_container">
+				<ul class="rslides callbacks callbacks1" id="slider4">
+					<li>
+						<div class="w3layouts-banner-top">
+
+							<div class="container">
+								<div class="agileits-banner-info">
+								<h4> Foam composite board</h4>
+									<h3>used to build moveable houses</h3>
+									
+									
+								</div>	
+									
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top1">
+							<div class="container">
+								<div class="agileits-banner-info">
+								<h4> Foam composite board</h4>
+									<h3>Build cargo containers </h3>
+										 
+									
+								</div>
+									
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top2">
+							<div class="container">
+								<div class="agileits-banner-info">
+								<h4> Foam Board</h4>
+									<h3>Used in Heat preservation of the house </h3>
+										
+									
+								</div>
+								
+							</div>
+						</div>
+						</li>
+						<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top3">
+							<div class="container">
+								<div class="agileits-banner-info">
+								<h4> Foam Box</h4>
+									<h3>Keep fresh food cool for 48 hrs with ice</h3>
+										
+									
+								</div>
+								
+							</div>
+						</div>
+					</li>
+						<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top4">
+							<div class="container">
+								<div class="agileits-banner-info">
+								<h4> Float</h4>
+									<h3>It is used for fishery</h3>
+										
+									
+								</div>
+								
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="clearfix"> </div>
+			<!--banner Slider starts Here-->
+		</div>
+		    <div class="thim-click-to-bottom">
+				<a href="#about" class="scroll">
+					<i class="fa fa-long-arrow-down" aria-hidden="true"></i>
+				</a>
+			</div>
+	</div>	
+	<!-- //banner --> 
+<!--//Header-->
+
+<!-- banner-bottom -->
+<!-- /about -->
+ 
+ 	<!-- //about -->
+<!--sevices-->
+<div class="advantages">
+	<div class="container">
+		<div class="advantages-main">
+				<h3 class="title-w3-agileits">About us</h3>
+				 <p><i style="color: white;">Ever Growing Company Limited is located at Dar es Salaam, a beautiful harbour city.  It is founded in the summer of 2017 and develops rapidly. We devote ourself to the construction and development of this city all the time, especially in the aspect of building and fishery. At first, the main products are foam boxes. As the growth   of the market demand, the foam boards are put into production soon. 
+			     Currently, it covers almost all kinds of foam products including foam box, foam board, foam lined-in and composite board and so on. In the future, our products will be more various. 
+                 </i></p><br>
+                 
+
+		  <div class="advantage-bottom">
+			 <div class="col-md-12 advantage-grid left-w3ls wow bounceInLeft" data-wow-delay="0.3s">
+			 	<div class="advantage-block ">
+					<i class="" aria-hidden="true"></i>
+			 		<h4 style="color: #0f2453;">EPS Foam Board</h4>
+			 		<p><i class="fa fa-check" aria-hidden="true"></i> EPS Foam Board is in pieces that are used in the construction of highway and railway and buildings(insulation) and so on. It has the advantage of quake proof, fire retardant, and extra light. As a part of construction material, it is premium in heat preservation of the building, insulation of cold storage, and the component of walls in a building.
+
+The size can be customized within the range of 10mm-3000mm(for length/height), 10mm-1200mm(for width), 10mm-600mm(for thickness).
+
+The density can also be customized within range of 18kg/m³- 40kg/m³ according to the usage.
+ 
+
+                     </p>
+                     <img src="images/4-1.png" style="width: 600px; height: 300px;">
+                     <br><br><br>
+                         <h4 style="color: #0f2453;">EPS Sandwich Panel</h4>
+			 		<p> <i class="fa fa-check" aria-hidden="true"></i> EPS Sandwich Panel has all the advantages of foam board which is made of foam board and steel tile. It includes panels for walls and for roofs according to the usage. The foam board lies in between steel tiles to meet the demand of construction requirements. It is also in pieces and mainly used to build moveable houses for building sites and houses.
+
+The size can be customized within range of 500mm-6000mm(for length/height,any length in theory), 950mm(for width,fixed), 50mm-250mm(for thickness in general).
+                     </p>
+                    <br>
+                     <img src="images/4-2.jpg" style="width: 600px; height: 300px;">
+                          <h4 style="color: #0f2453;">Foam box</h4>
+					<p><i class="fa fa-check" aria-hidden="true"></i> Foam box has all the advantages of foam board. It is widely used in transportation of fresh food such as seafood including fish, crab and fruit like grape, berry and fragile goods including glass bottle and electronics and so on to minimize the loss. It can keep the food cool for 48 hours with ice at most. The foam boxes are very strong but light in weight.
+
+The size and shape can be customized according to requirements. Here are the three of the most popular sizes with order width, length, and height.
+
+1. 400mm*700mm*350mm
+
+2. 400mm*600mm*300mm
+
+
+3. 300mm*460mm*370mm</p>
+					<img src="images/6-3.jpg" style="width: 600px; height: 300px;">
+					
+			 	</div>
+			 </div>
+			 <!--<div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
+			 	<div class="advantage-block">
+					<i class="fa fa-clock-o" aria-hidden="true"></i>
+			 		<h4 style="color: #0f2453;"> Corporate Culture</h4>
+			 		<p>Spirit: From a country with advanced technology, abundant resource and beautiful scenery, we work with great dedication and cooperation to build a win-win circumstance.
+                    </p>
+                    <img src="images/spirity.jpg">
+					
+					<p><i class="fa fa-check" aria-hidden="true"></i>Leadership: High quality, good service and innovation </p>
+					
+
+
+                    <p> <br><br>          
+                    Dream: Everything is possible. We always believe that one can live his ideal life through unremitting efforts.	</p>
+                    <img src="images/inovation.png">
+
+                    <p>
+                    Ever Growing makes a better future.
+                </p>
+
+                <p>
+                    Along with the development of Tanzania economic, we believe our products will be more various. 
+                    The great advantage of the foam products is that the size and density can be customized as the requirements
+                </p>
+                <img src="images/banner/rank.jpg">
+                
+			 	</div>
+			 </div>-->
+			<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--//sevices-->
+<!--sevices-->
+
+<!--//sevices-->
+<div class="plans-section" id="rooms">
+				 <div class="container">
+				 <h3 class="title-w3-agileits title-black-wthree"> Evergrowing Company Limited Qualification</h3>
+				 <h4>
+                     <p>All of our products have passed the test of ISO certification. They are Quality Management system as per ISO 9001:2015, Environmental Management system as per ISO 14001:2015, Food Safety Management System as per ISO 45001:2018. </p></h4><br>
+						<div class="priceing-table-main">
+				 <div class="col-md-3 price-grid">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/ISO9001-2015.jpg" alt=" " class="img-responsive" />
+						</div>
+						<h4>Quality Management system as per ISO 9001:2015</h4>
+						<!--<div class="price-gd-bottom">
+							<div class="price-list">
+								
+							</div>
+							<div class="price-selet" style="color: #0f2453;">	
+									<h3>Products Description</h3>					
+								<a href="card/card3.php" >View</a>
+							</div>
+						</div>-->
+					</div>
+				</div>
+				<div class="col-md-3 price-grid ">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/ISO14001-2015.jpg" alt=" " class="img-responsive" />
+						</div>
+						<h4>Environmental Management system as per ISO 14001:2015</h4>
+						<!--<div class="price-gd-bottom">
+							<div class="price-list">
+								
+							</div>
+							<div class="price-selet" style="color: #0f2453;">	
+									<h3>Products Description</h3>					
+								<a href="card/card3.php" >View</a>
+							</div>
+						</div>-->
+					</div>
+				</div>
+				<div class="col-md-3 price-grid lost">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/ISO45001-2018.jpg" alt=" " class="img-responsive" />
+						</div>
+						<h4> Food Safety Management System as per ISO 45001:2018</h4>
+						<!--<div class="price-gd-bottom">
+							<div class="price-list">
+								
+							</div>
+							<div class="price-selet" style="color: #0f2453;">	
+									<h3>Products Description</h3>					
+								<a href="card/card3.php" >View</a>
+							</div>
+						</div>-->
+					</div>
+				</div>
+				<div class="col-md-3 price-grid lost">
+					<div class="price-block agile">
+						<div class="price-gd-top">
+						<img src="images/iso.png" alt=" " class="img-responsive" />
+						</div>
+						<h4>International Standard Organization</h4>
+						<!--<div class="price-gd-bottom">
+							<div class="price-list">
+								
+							</div>
+							<div class="price-selet" style="color: #0f2453;">	
+									<h3>Products Description</h3>					
+								<a href="card/card3.php" >View</a>
+							</div>
+						</div>-->
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+
+
+<section class="contact-w3ls" id="contact">
+    
+	<div class="container">
+		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile2" data-aos="flip-left">
+			<div class="contact-agileits">
+				<h4>Contact Us</h4>
+				
+<form  method="post" name="sentMessage" id="contactForm" >
+					<div class="control-group form-group">
+                        
+                            <label class="contact-p1" style="color: green;">Email:</label>
+                            <input type="email" id="email" class="form-control" placeholder="Your email address" name="email" required="required">
+                       
+                    </div>	
+                    <div class="control-group form-group">
+                        
+                            <label class="contact-p1" style="color: green;">Subject:</label>
+                            <input type="text" id="subject" class="form-control" placeholder="Your subject " required="required" name="subject">
+						
+                    </div>
+                    <div class="control-group form-group">
+                        
+                            <label class="contact-p1" style="color: green;">Massage:</label>
+                            <textarea name="message" id="message" cols="30" rows="4" class="form-control" placeholder=" Massage here" required="required"></textarea>
+						
+                    </div>
+                    
+                    
+                    <input type="submit" value="Send Message" class="btn btn-primary" name="contact_us">
+				</form>
+				<?php     
+           //if "email" variable is filled out, send email
+                   if (isset($_REQUEST['email']))  {
+                       //Email information
+                       $admin_email = "evergrowing100@gmail.com";
+                       $email = $_REQUEST['email'];
+                       $subject = $_REQUEST['subject'];
+                       $message = $_REQUEST['message'];
+  
+                       //send email
+                    mail($admin_email, "$subject", $message, "From:" . $email);
+  
+                       //Email response
+                    echo "Thank you for contacting us!";
+                   }
+  
+              //if "email" variable is not filled out, display the form
+               
+                 ?>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
+			<h4>Connect With Us</h4>
+			
+			<p class="contact-agile1"><strong>Whatsapp :</strong>+255 756358888 </p>
+			<p class="contact-agile1"><strong>phone :</strong> +255 756687632</p>
+			
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:evergrowing100@gmail.com">evergrowing100@gmail.com</a></p>
+			<p class="contact-agile1"><strong>Address :</strong> P.O.BOX 97087,Kisarawe II,Kigamboni,Dar es salaam-Tanzania</p>
+			<br><br><br>
+																
+			<div class="social-bnr-agileits footer-icons-agileinfo">
+				<ul class="social-icons3">
+								<li><a href="https://www.facebook.com/ever.growing.167" class="fa fa-facebook icon-border facebook"> </a></li>
+								
+								
+			</ul>
+			</div>
+			
+		</div>
+		
+		<div class="clearfix"></div>
+	</div>
+	
+</section><br><br>
+<!-- /contact -->
+<div class="mapouter"><div class="gmap_canvas"><iframe width="1400" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=6%C2%B054'28.2%22S%2039%C2%B020'48.9%22E&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net"></a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1400px;}</style>
+</div>
+
+
+
+			<div class="copy">
+		        <p>© 2020 Ever Growing Company Limited . All Rights Reserved | Design by <a href="index.php" style="color: green;">Developer dickson!</a> </p>
+		    </div>
+<!--/footer -->
+<!-- js -->
+<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<!-- contact form -->
+<script src="js/jqBootstrapValidation.js"></script>
+
+<!-- /contact form -->	
+<!-- Calendar -->
+		<script src="js/jquery-ui.js"></script>
+		<script>
+				$(function() {
+				$( "#datepicker,#datepicker1,#datepicker2,#datepicker3" ).datepicker();
+				});
+		</script>
+<!-- //Calendar -->
+<!-- gallery popup -->
+<link rel="stylesheet" href="css/swipebox.css">
+				<script src="js/jquery.swipebox.min.js"></script> 
+					<script type="text/javascript">
+						jQuery(function($) {
+							$(".swipebox").swipebox();
+						});
+					</script>
+<!-- //gallery popup -->
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<!-- flexSlider -->
+				<script defer src="js/jquery.flexslider.js"></script>
+				<script type="text/javascript">
+				$(window).load(function(){
+				  $('.flexslider').flexslider({
+					animation: "slide",
+					start: function(slider){
+					  $('body').removeClass('loading');
+					}
+				  });
+				});
+			  </script>
+			<!-- //flexSlider -->
+<script src="js/responsiveslides.min.js"></script>
+			<script>
+						// You can also use "$(window).load(function() {"
+						$(function () {
+						  // Slideshow 4
+						  $("#slider4").responsiveSlides({
+							auto: true,
+							pager:true,
+							nav:false,
+							speed: 500,
+							namespace: "callbacks",
+							before: function () {
+							  $('.events').append("<li>before event fired.</li>");
+							},
+							after: function () {
+							  $('.events').append("<li>after event fired.</li>");
+							}
+						  });
+					
+						});
+			</script>
+		<!--search-bar-->
+		<script src="js/main.js"></script>	
+<!--//search-bar-->
+<!--tabs-->
+<script src="js/easy-responsive-tabs.js"></script>
+<script>
+$(document).ready(function () {
+$('#horizontalTab').easyResponsiveTabs({
+type: 'default', //Types: default, vertical, accordion           
+width: 'auto', //auto or any width like 600px
+fit: true,   // 100% fit in a container
+closed: 'accordion', // Start closed if in accordion view
+activate: function(event) { // Callback function if tab is switched
+var $tab = $(this);
+var $info = $('#tabInfo');
+var $name = $('span', $info);
+$name.text($tab.text());
+$info.show();
+}
+});
+$('#verticalTab').easyResponsiveTabs({
+type: 'vertical',
+width: 'auto',
+fit: true
+});
+});
+</script>
+<!--//tabs-->
+<!-- smooth scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+		/*
+			var defaults = {
+			containerID: 'toTop', // fading element id
+			containerHoverID: 'toTopHover', // fading element hover id
+			scrollSpeed: 1200,
+			easingType: 'linear' 
+			};
+		*/								
+		$().UItoTop({ easingType: 'easeOutQuart' });
+		});
+	</script>
+	
+	<div class="arr-w3ls">
+	<a href="#home" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	</div>
+<!-- //smooth scrolling -->
+<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+</body>
+</html>
+
+
