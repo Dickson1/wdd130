@@ -10,7 +10,20 @@ body {
     background-color: #023047;
 }
 header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+header {
     background-color: #ffb703;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 nav a {
     text-align: left;
@@ -78,6 +91,17 @@ h4 {
 }
 main section {
     text-align: center;
+}
+.card-img, .mountains {
+    width: 100%;
+}
+footer {
+    background-color: #6f7364;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 footer {
     background-color: #ffb703;
