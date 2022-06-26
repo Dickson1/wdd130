@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+header {
+    position: fixed;
+    background-color: lightgray;
+    color: black;
+    padding: 1px 10px;
+    width: 100%;
+}
+main {
+    padding-top: 75px;
+    padding-left: 20px;
+    padding-bottom: 75px;
+}
+h2 {
+    margin-bottom: 0;
+}
+table {
+    margin-left: 20px;
+}
+th {
+    text-align: left;
+}
+th span {
+    border-bottom: solid 2px black;
+}
+td {
+    padding-left: 10px;
+}
+footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 20px;
+    width: 100%;
+    background-color: lightgray;
+    color: black;
+}
