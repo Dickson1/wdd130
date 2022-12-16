@@ -1,0 +1,290 @@
+header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.theheader {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.heading {
+	display: flex;
+	flex-direction: column;
+	padding: 5px;
+}
+.logo{
+	align-items: center;
+	width: 100%;
+}
+header,
+footer {
+	text-align: center;
+	color:  white;
+	background-color: darkseagreen;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+header h1{
+    color: white;
+}
+#date{
+    color:white;
+}
+nav {
+	margin: 0 auto;
+	max-width: 100%;
+	font-size: 16px;
+}
+nav ul {
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	overflow: hidden;
+}
+nav ul li a {
+	display: block;
+	color:  white;
+	padding: 0.75rem;
+	text-decoration: none;
+	font-size: 1rem;
+}
+.home-main {
+	padding: 10px;
+	margin: 10px;
+	background-color: rgb(164, 212, 210);
+	display: grid;
+}
+.hero img{
+	width: 100%;
+	height: auto;
+}
+.call{
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	padding: 10px;
+}
+.summary{
+  align-items: center;
+  /* text-align: center; */
+  padding: 10px;
+  justify-content: center;
+  text-align: justify;
+}
+.summary h3{
+	text-align: center;
+}
+.summary img{
+	width:100%;
+	height:auto;
+}
+.call img{
+	height: auto;
+	width: 100%;
+}
+.infomation img{
+	width:50%;
+	height:auto;
+}
+.weather{
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  justify-content: center;
+}
+.infomation{
+  align-items: center;
+  /* text-align: center; */
+  padding: 10px;
+  justify-content: center;
+  text-align: justify;
+}
+.infomation h3{
+	text-align: center;
+}
+.infomation img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.drink-link {
+	margin-top: 20px;
+}
+.drink-link a{
+	color: white;
+	width: 150px;
+	padding: 10px;
+	background-color: #E81586;
+	border-radius: 1em;
+	
+  } 
+.forecast {
+	display: flex;  
+	justify-content: center; 
+	align-items: center;
+	
+}
+.forecast > div{
+	flex: 1;
+}
+
+nav button {
+	margin: 0.2rem 2vw;
+	background: black;
+	font-size: 2rem;
+	color: white;
+	border: none;
+}
+nav ul.open {
+	display: block;
+}
+
+nav a:hover {
+	background-color: blue;
+}
+#hamburgerBtn span:nth-child(1) {
+	display: block;
+}
+
+#hamburgerBtn.open span:nth-child(1) {
+	display: none;
+}
+
+#hamburgerBtn span:nth-child(2) {
+	display: none;
+}
+
+#hamburgerBtn.open span:nth-child(2) {
+	display: block;
+}
+.contact-us-card{
+	padding: 20px;
+	justify-content: center;
+}
+.history-card{
+	padding: 20px;
+	justify-content: center;
+}
+
+.hero h1{
+	text-align: center;
+}
+.fresh-main h1{
+	text-align: center;
+}
+
+hr{
+	height: 5px;
+	width: 100%;
+	background-color: blue;
+}
+
+/* Frash Page */
+.fresh-main{
+	background-color: rgb(164, 212, 210);
+	margin: 10px;
+}
+.fresh-main h1{
+	font-size: 30px;
+	padding: 5px;
+}
+
+fieldset{
+	margin-top: 5px; 
+	border: none; 
+	border-radius: 10px;
+}
+legend {
+	text-align: center; 
+	font-size: 25px; 
+	
+}
+
+.form-drink, .form-data {
+	margin: auto;
+	width: 50%;
+	min-width: 350px;
+	border-radius: 4px;
+  	background-color: rgba(0, 255, 255, 0.5);
+	padding: 5px;
+}
+
+.top input, .top textarea, label.top{
+	display: block;
+	font-size: 13px;
+	width: 90%;
+	padding: 16px;
+	border-radius: 4px;
+}
+
+.flavors {
+	margin: auto;
+	display: block;
+	text-align: center;
+	justify-content: center;
+}
+.flavors label {
+	color: #ABC7E1; 
+	font-size: 15px;
+}
+select#fruit1, select#fruit2, select#fruit3 {
+	background-color: white; 
+	border: 2px solid #E81586; 
+	padding: 2%; 
+	border-radius: 10px;
+}
+
+textarea#instructions {
+	width: 90%;
+}
+form input {
+	border: 1px solid #ABC7E1;
+}
+form label.top input:required {
+	border-left: solid 6px #E81586 ;
+}
+form label.top input:required:valid {
+	border-left: solid 6px #E81586;
+}
+
+.submitBtn{
+	width: 100px; 
+	font-size: 18px; 
+	margin: 15px auto 15px 30px ; 
+	color: #FFFFFF;
+	background-color: #E81586;
+	border-radius: 10px;
+}
+
+#form-output {
+	display: none;
+}
+.form-data {
+	margin-top: 2rem; 
+	padding: 2%;
+}
+/*About Us*/
+.aboutus-main{
+	background-color: rgb(164, 212, 210);
+	margin: 10px;
+	justify-content: center;
+	justify-items: center;
+	text-align: justify;
+}
+.aboutus-main h2{
+	text-align: center;
+	font-size: 25px;
+}
+.history-card img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
