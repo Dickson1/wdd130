@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name ="author" content="Kigame Kisia">
+    <meta name ="description" content="Bountiful Foods home page for Kigame Kisia">
+    <title>Bountiful Foods| Home</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.co.tz">
+    <link rel="preconnect" href="https://fonts.gstatic.co.tz" crossorigin>
+    <link href="https://fonts.googleapis.co.tz/css2?family=Lora:wght@600&family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/medium.css">
+    <link rel="stylesheet" href="styles/large.css">
+</head>
+<body>
+    <header>
+      <div class="theheader">
+        <div class="logo"><img src="images/logo.webp" alt="Website Logo" width="80" height="80"></div>
+        <div><h1>Bountiful Foods</h1></div>
+        <nav>
+        <button id="hamburgerBtn"><span>&#9776;</span><span>X</span></button>
+        <ul id="navigate">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="fresh.html">Fresh</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+        </ul>
+        </nav>
+        <div class="social">
+          <a target="_blank" href="https://www.facebook.co.tz/"><img src="images/facebook.png" alt="Facebook Icon" width="50" height="50"></a>
+          <a target="_blank" href="https://www.twitter.co.tz/"><img src="images/twitter.png" alt="Twitter Icon" width="50" height="50"></a>
+          <a target="_blank" href="https://www.linkedin.co.tz/"><img src="images/linkedin.png" alt="Linked in Icon" width="50" height="50"></a>
+        </div>
+      </div>
+      <div id="date"></div>
+    </header>
+    <main class="home-main">
+        <div class="hero">
+          <h1>Welcome to Bountiful Foods , Dar es salaam</h1>
+          <picture>
+            <source media="(min-width:1201px)" srcset="images/hero-image2.jpg">
+            <source media="(min-width:801px)" srcset="images/hero-image2.jpg">
+            <img src="images/nanasi.jpg" alt="Fruit Image" width="400" height="225">
+          </picture> 
+        </div>
+        <div class="card-container">
+          <div class="call">
+            <h3> Make your own fruit drink </h3>
+            <img src="images/juice.jpg"  alt="juice image" width="400">
+            <div class="drink-link"><a href="fresh.html">Choose your drink</a></div>
+          </div>
+          <div class="summary">
+            <h3>Summary Information About Tanzania</h3>
+            <p>Tanzania is a country between the great lakes of East Africa and the Indian Ocean. The land has a total area of 947,300 km² (365,754 mi²) and a total coastline of 1,424 km (884.8 mi). This land area is approximately 136% of the area of Texas.
+The current population of the United Republic of Tanzania is 63,900,257 as of Thursday, December 15, 2022, based on Worldometer elaboration of the latest United Nations data.</p>
+            <img class="right" src="images/dsm.jpg" alt="Morogoro image" width="400">
+          </div>
+          <div class="weather">
+            <h3>Current Weather</h3>
+            <figure>
+              <img src="#" alt="Weather Icon" id="weather-icon">
+              <figcaption></figcaption>
+            </figure>
+            <p class="temperature"><span id="current-temp"></span>&deg;C</p>
+            <p id="desc" class="temperature"></p>
+            <hr>
+            <p>current wind speed is <span id="speed">00</span></p>
+            <!-- <p>wind chill: <span id="chill">00</span></p> -->
+            <p>Humidity is <span id="humidity">00</span>%</p>
+            <div id="forecast" class="forecast"></div>
+          </div>
+          <div class="infomation">
+            <h3>General Information</h3>
+            <p>Bountiful Foods is small business specializing in organic, locally grown foods. 
+              They are physically located in Kinondoni, Dar es salaam, however, they have many food 
+              trucks that cover the coastal area from Morogoro to Mbeya. The company sells 
+              fruits and produce directly from the farmers in the area, but also uses some national 
+              and international suppliers. The owner-operated company caters to walk in traffic at 
+              their storefront in Kinondoni and, of course, their food trucks.</p>
+            <div class="fruit-show">
+              <img src="images/watermelon.png" alt="Watermelon image" width="80" height="80">
+            </div>
+          </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footerlogo"><img src="images/logo.webp" alt="Website Logo" width="80" height="80"></div>
+        <div class="information">
+          <h2>Bountiful Foods</h2>
+          <p>Kinondoni, Dar es salaam</p>
+        </div>
+        <div class="contact_info">
+          <p>info@bountifulfoods.co.tz</p>
+          <p>+255658777269</p>
+          <a href="https://goo.gl/maps/kB1J433VJHhUFGer6">📍Location Map</a>
+        </div>
+        <hr>
+        <p>&copy;<span id="year"></span> Bountiful foods | Dickson Simon Mng'ong'o | WDD 230 Final Project
+        Last modification: <span id="modified"></span></p>
+        <p>Weather Source : www.openweathermap.org</p>
+    </footer>
+    <script src="scripts/bountiful.js"></script>
+    <script src="scripts/navbutton.js"></script>
+    <script src="scripts/forecast.js"></script>
+    <script src="scripts/weather.js"></script>
+</body>
+</html>
